@@ -1,6 +1,6 @@
 # Summer ‘21: Translations, Coding, and WebDev, Oh My!
 
-###### Note: There aren't any images in this markdown file because I wasn't sure how to get them to display from a different host/folder. There will be a Medium post with this same documentation, so I'll add a link to it when it comes out.
+###### Note: There aren't any images in this markdown file because I wasn't sure how to get them to display from a different host/folder. There's a Medium post with the same details [here](https://medium.com/processing-foundation/summer-21-translations-coding-and-webdev-oh-my-cc1a2d6bc65f).
 
 By Joseph Hong
 Mentored by Jiwon Shin 
