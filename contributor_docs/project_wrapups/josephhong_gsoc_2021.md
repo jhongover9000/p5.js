@@ -4,7 +4,7 @@ Mentored by Jiwon Shin
 Advised by Inwha Yeom
 
 ## Intro
-Hey there. I’m Joseph, a junior who participated in Google Summer of Code 2021. This article is about what I worked on over the summer–– Korean translations of the p5.js Reference section and a redesign of the p5.js website. I went into this not really sure (and somewhat worried about) what I was going to be doing, but it turned out to be an awesome opportunity for me to polish my Korean and build upon the web development skills I learned throughout my sophomore year.
+Hey there. I’m Joseph, a junior who participated in Google Summer of Code 2021. This documentation is about what I worked on over the summer–– Korean translations of the p5.js Reference section and a redesign of the p5.js website. I went into this not really sure (and somewhat worried about) what I was going to be doing, but it turned out to be an awesome opportunity for me to polish my Korean and build upon the web development skills I learned throughout my sophomore year.
 
 ## Quick Links
 ### Part 1: Korean Translations
@@ -20,8 +20,8 @@ Hey there. I’m Joseph, a junior who participated in Google Summer of Code 2021
 ## Part One: Reference Section Translations
 This part was rather straightforward. It involved translating the untranslated lines in the JSON file for the p5.js website’s Reference section. My work was split mainly into 3 parts: translating fully untranslated pages, translating half-translated pages, and standardizing/optimizing the translations and the code for both readability and so that the auto-update script wouldn’t add already-translated lines to pages. [Here is the link]() to the repository with the changed files and [here is the link]() to the pull request.
 
-![a fully untranslated p5.js Reference page](https://drive.google.com/file/d/1zCDHff0zcLWYHdXkKx02AMdS4Ml1bCWR/view?usp=sharing)
-![a fully translated p5.js Reference page](https://drive.google.com/file/d/1IfAumWRgBb2wq8npGQ-LlchM2bXTmeyI/view?usp=sharing)
+![a fully untranslated p5.js Reference page](https://drive.google.com/file/d/1zCDHff0zcLWYHdXkKx02AMdS4Ml1bCWR)
+![a fully translated p5.js Reference page](https://drive.google.com/file/d/1IfAumWRgBb2wq8npGQ-LlchM2bXTmeyI)
 *An untranslated p5.js Reference page fully in English, followed by the same p5.js Reference page translated fully into Korean.*
 
 Translating most of the pages that were fully in English to Korean was somewhat difficult when considering that there have been multiple translators working on the file, which led to different terminology or sentence structure (as for the formal speech used in Korean). Deciding on which terms and structures to use was the main difficulty, but aside from that it wasn’t too difficult.
